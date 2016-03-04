@@ -141,6 +141,13 @@ p
 }
 .image-banner img
 {
-    margin-top: -30%;
     width: 100%;
+}
+.leisure img
+{
+    margin-top: -40%;
+}
+.hospitality img
+{
+    margin-top: -25%;
 }
